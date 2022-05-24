@@ -12,8 +12,7 @@ Question 2 (B)
 
 Question 3 (C)
 
-    O Lobo Mau resolveu parar um pouco com as maldades, decidiu abrir uma
-    empresa de entregas e convidou Chapeuzinho Vermelho para ser sua sócia.
+    O Lobo Mau resolveu parar um pouco com as maldades, decidiu abrir uma empresa de entregas e convidou Chapeuzinho Vermelho para ser sua sócia.
 
     Certo dia, Chapeuzinho precisou levar doces e bolos para sua vovozinha. Como todos sabem, ela mora longe, o caminho é deserto e o Coelho Mau mora ali por perto. Sim, como o Lobo virou empresário, alguém tinha que tomar seu lugar na floresta. Para passar pelo caminho da floresta, o Coelho passou a cobrar um valor ‘V’ por km e um valor ‘P’ por pedágio. Assim, Chapeuzinho pediu uma carona ao seu sócio e lá foi ela pela estrada a fora, já não tão sozinha, levar os bolos e doces para a vovozinha. 
 
