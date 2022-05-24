@@ -1,19 +1,16 @@
-A, D, P = input().split()
+attack, defense, dust = map(int, input().split())
+force = attack + defense + dust
 
-resultado: int = (int(A) + int(D) + int(P))
+percent = int((force / 110) * 100)
 
-percentage = resultado / 110
-percentage: float = percentage * 100
-
-if 0 <= percentage <= 100:
-
-    if 0 <= percentage < 51:
+if percent > 100:
+    print("Hum, parece que houve um erro")
+else:
+    if percent <= 50:
         print("Seu pokemon nao fara progresso em batalhas")
-    elif 51 <= percentage < 67:
+    elif percent <= 66:
         print("Seu pokemon esta acima da media")
-    elif 67 <= percentage < 80:
+    elif percent <= 79:
         print("Seu pokemon certamente me chamou atencao")
     else:
         print("Seu pokemon e uma maravilha")
-else:
-    print("Hum, parece que houve um erro")
