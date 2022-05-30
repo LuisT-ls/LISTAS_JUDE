@@ -3,11 +3,12 @@ par = []
 impar = []
 
 for i in range(num):
-    number: int = input().split()
-    if number % 2:
-        par.append(number)
+    a = int(input())
+    
+    if a % 2 == 0:
+        par.append(int(a))
     else:
-        impar.append(number)
+        impar.append(int(a))
 
 print(f"{par}")
 print(f"{impar}")
